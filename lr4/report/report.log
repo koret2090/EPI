@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  22 MAR 2022 11:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  22 MAR 2022 14:59
 entering extended mode
 **./report.tex
 (report.tex
@@ -547,86 +547,97 @@ File: img//1.png Graphic file (type png)
 <use img//1.png>
 Package pdftex.def Info: img//1.png  used on input line 104.
 (pdftex.def)             Requested size: 241.2005pt x 127.37555pt.
- [1 <./img//1.png>]
-<img//delay-task6.png, id=20, 573.342pt x 289.68225pt>
-File: img//delay-task6.png Graphic file (type png)
-<use img//delay-task6.png>
-Package pdftex.def Info: img//delay-task6.png  used on input line 125.
+<img//100.png, id=16, 389.65575pt x 145.7445pt>
+File: img//100.png Graphic file (type png)
+<use img//100.png>
+Package pdftex.def Info: img//100.png  used on input line 110.
+(pdftex.def)             Requested size: 428.62263pt x 160.31944pt.
+ [1 <./img//1.png> <./img//100.png>]
+<img//delay-task6V2.png, id=23, 573.342pt x 289.68225pt>
+File: img//delay-task6V2.png Graphic file (type png)
+<use img//delay-task6V2.png>
+Package pdftex.def Info: img//delay-task6V2.png  used on input line 130.
 (pdftex.def)             Requested size: 401.33665pt x 202.77618pt.
-<img//delay-task9.png, id=21, 573.342pt x 289.68225pt>
-File: img//delay-task9.png Graphic file (type png)
-<use img//delay-task9.png>
-Package pdftex.def Info: img//delay-task9.png  used on input line 132.
+<img//delay-task9V2.png, id=24, 573.342pt x 289.68225pt>
+File: img//delay-task9V2.png Graphic file (type png)
+<use img//delay-task9V2.png>
+Package pdftex.def Info: img//delay-task9V2.png  used on input line 137.
 (pdftex.def)             Requested size: 401.33665pt x 202.77618pt.
-<img//delay-results.png, id=22, 499.26524pt x 218.0145pt>
+<img//delay-results.png, id=25, 499.26524pt x 218.0145pt>
 File: img//delay-results.png Graphic file (type png)
 <use img//delay-results.png>
-Package pdftex.def Info: img//delay-results.png  used on input line 139.
+Package pdftex.def Info: img//delay-results.png  used on input line 144.
 (pdftex.def)             Requested size: 399.41273pt x 174.41182pt.
- [2 <./img//delay-task6.png> <./img//delay-task9.png>]
-<img//powerup.png, id=27, 526.3665pt x 341.47575pt>
+ [2 <./img//delay-task6V2.png> <./img//delay-task9V2.png>]
+<img//powerup.png, id=29, 526.3665pt x 341.47575pt>
 File: img//powerup.png Graphic file (type png)
 <use img//powerup.png>
-Package pdftex.def Info: img//powerup.png  used on input line 146.
+Package pdftex.def Info: img//powerup.png  used on input line 151.
 (pdftex.def)             Requested size: 421.09378pt x 273.18097pt.
-<img//powerup2.png, id=28, 526.3665pt x 341.47575pt>
+<img//powerup2.png, id=30, 526.3665pt x 341.47575pt>
 File: img//powerup2.png Graphic file (type png)
 <use img//powerup2.png>
-Package pdftex.def Info: img//powerup2.png  used on input line 153.
+Package pdftex.def Info: img//powerup2.png  used on input line 158.
 (pdftex.def)             Requested size: 421.09378pt x 273.18097pt.
-[3 <./img//delay-results.png> <./img//powerup.png>]
-<img//task10.png, id=33, 573.342pt x 289.68225pt>
+ [3 <./img//delay-results.png> <./img//powerup.png>]
+<img//task10.png, id=35, 573.342pt x 289.68225pt>
 File: img//task10.png Graphic file (type png)
 <use img//task10.png>
-Package pdftex.def Info: img//task10.png  used on input line 162.
+Package pdftex.def Info: img//task10.png  used on input line 167.
 (pdftex.def)             Requested size: 458.67421pt x 231.74611pt.
-<img//chill.png, id=34, 526.3665pt x 341.47575pt>
+<img//chill.png, id=36, 526.3665pt x 341.47575pt>
 File: img//chill.png Graphic file (type png)
 <use img//chill.png>
-Package pdftex.def Info: img//chill.png  used on input line 169.
+Package pdftex.def Info: img//chill.png  used on input line 174.
 (pdftex.def)             Requested size: 421.09378pt x 273.18097pt.
- [4 <./img//powerup2.png> <./img//task10.png>]
-<img//meetings.png, id=38, 347.49825pt x 428.802pt>
+
+[4 <./img//powerup2.png> <./img//task10.png>]
+<img//meetings.png, id=40, 347.49825pt x 428.802pt>
 File: img//meetings.png Graphic file (type png)
 <use img//meetings.png>
-Package pdftex.def Info: img//meetings.png  used on input line 177.
+Package pdftex.def Info: img//meetings.png  used on input line 182.
 (pdftex.def)             Requested size: 277.99895pt x 343.04205pt.
-<img//result1.png, id=39, 488.42474pt x 492.03825pt>
+<img//result1.png, id=41, 488.42474pt x 492.03825pt>
 File: img//result1.png Graphic file (type png)
 <use img//result1.png>
-Package pdftex.def Info: img//result1.png  used on input line 185.
+Package pdftex.def Info: img//result1.png  used on input line 190.
 (pdftex.def)             Requested size: 390.74031pt x 393.63113pt.
  [5 <./img//chill.png> <./img//meetings.png>]
-<img//result2.png, id=44, 487.8225pt x 463.7325pt>
+<img//result2.png, id=46, 487.8225pt x 463.7325pt>
 File: img//result2.png Graphic file (type png)
 <use img//result2.png>
-Package pdftex.def Info: img//result2.png  used on input line 191.
+Package pdftex.def Info: img//result2.png  used on input line 196.
 (pdftex.def)             Requested size: 390.25853pt x 370.9865pt.
  [6 <./img//result1.png>]
-<img//result3.png, id=50, 352.31625pt x 49.3845pt>
+<img//result3.png, id=52, 352.31625pt x 49.3845pt>
 File: img//result3.png Graphic file (type png)
 <use img//result3.png>
-Package pdftex.def Info: img//result3.png  used on input line 197.
+Package pdftex.def Info: img//result3.png  used on input line 202.
 (pdftex.def)             Requested size: 281.85338pt x 39.50764pt.
- [7 <./img//result2.png> <./img//result3.png>] (report.aux) ) 
+ [7 <./img//result2.png> <./img//result3.png>]
+<img//progress.png, id=58, 579.96675pt x 499.8675pt>
+File: img//progress.png Graphic file (type png)
+<use img//progress.png>
+Package pdftex.def Info: img//progress.png  used on input line 213.
+(pdftex.def)             Requested size: 463.97403pt x 399.89453pt.
+ [8 <./img//progress.png>] (report.aux) ) 
 Here is how much of TeX's memory you used:
- 5723 strings out of 478864
- 83091 string characters out of 2848187
+ 5745 strings out of 478864
+ 83530 string characters out of 2848187
  587976 words of memory out of 3000000
- 23528 multiletter control sequences out of 15000+600000
+ 23550 multiletter control sequences out of 15000+600000
  412812 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,15n,66p,474b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Daniil\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\
-Daniil\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\U
-sers\Daniil\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> 
-<C:\Users\Daniil\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200
-.pk> <C:\Users\Daniil\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lab
-x1000.pk>
-Output written on report.pdf (8 pages, 375544 bytes).
+ <C:\Users\Daniil\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Daniil\AppData\Local
+\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Daniil\AppData\
+Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Daniil\App
+Data\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Danii
+l\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk>
+Output written on report.pdf (9 pages, 404113 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
+ 278 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
